@@ -1,12 +1,17 @@
 # ACTRIS Level 3 Aerosol Profiling Climatology
 
+> This repository is archived. The current version of the code is in
+> [actris-ares/actris-earlinet-level3-aerosol-profiling-climatology](https://github.com/actris-ares/actris-earlinet-level3-aerosol-profiling-climatology).
+> The Level 3 2000-2021 climatological dataset is published on Zenodo with DOI
+> [10.57837/actris-ares/5snr-xv73](https://doi.org/10.57837/actris-ares/5snr-xv73).
+
 ## Overview
 This guide provides a concise set of instructions to help users set up and run the ACTRIS Level 3 aerosol profiling climatology software. The software processes atmospheric lidar data to generate Level 3 NetCDF files with integrated, profile-based, and layer-resolved statistics.  
 This software is valid from the 2000–2021 release onwards. For previous releases (2000–2015, 2000–2019), the code used will be published as soon as possible.
 ## Repository and Data
 ### Clone the Repository
 Run the following lines of code from the terminal:
-1. git clone https://github.com/actris-ares/actris-level3-aerosol-profiling-climatology.git
+1. git clone https://github.com/actris-ares/actris-earlinet-level3-aerosol-profiling-climatology.git
 2. unzip actris-level3-aerosol-profiling-climatology.zip
 3. cd actris-level3-aerosol-profiling-climatology
 ### Download Level 2 Data
